@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Gagan : https://github.com/devgaganin.  
+# Copyright (c) 2025 【﻿ℝ𝗨𝔇ℛѦ】 : https://github.com/Rudrabose.  
 # Licensed under the GNU General Public License v3.0.  
 # See LICENSE file in the repository root for full license text.
 
